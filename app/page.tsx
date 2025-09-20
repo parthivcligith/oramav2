@@ -495,8 +495,7 @@ export default function OramaLanding() {
                   className="text-base sm:text-lg md:text-xl text-gray-400 mb-8 sm:mb-12"
                 >
                   
-                  You see something in your mind maybe an idea, maybe a feeling. At ÒRAMA, we help you see it through. We’re more than just a production house; we are vision engineers. Our craft lies in turning sparks of creativity into immersive experiences.
-We build world-class visuals, design narratives that resonate, and film stories that don’t just move frames but move people. If vision is what you’re after, ÒRAMA is where it begins.
+                 Holistic Production Services , Strategic Value Propositions , Elevated Brand Prestige and Bespoke Strategy.
                 </motion.p>
 
                 <motion.div
@@ -568,10 +567,8 @@ We build world-class visuals, design narratives that resonate, and film stories 
               >
                 <h2 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-6 sm:mb-8">About Òrama</h2>
                 <p className="text-base sm:text-lg md:text-xl text-gray-400 leading-relaxed px-4">
-                  At Òrama, we specialize in crafting compelling narratives and elevating brand identities through
-                  innovative content strategies. Our expert team develops captivating storylines to enhance both
-                  long-term and short-term brand engagement, ensuring your message resonates deeply with your target
-                  audience.
+                   You see something in your mind maybe an idea, maybe a feeling. At ÒRAMA, we help you see it through. We’re more than just a production house; we are vision engineers. Our craft lies in turning sparks of creativity into immersive experiences.
+We build world-class visuals, design narratives that resonate, and film stories that don’t just move frames but move people. If vision is what you’re after, ÒRAMA is where it begins.
                 </p>
               </motion.div>
 
