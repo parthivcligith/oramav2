@@ -495,6 +495,8 @@ export default function OramaLanding() {
                   className="text-base sm:text-lg md:text-xl text-gray-400 mb-8 sm:mb-12"
                 >
                   Creative Agency & Film Production House
+                  You see something in your mind maybe an idea, maybe a feeling. At ÒRAMA, we help you see it through. We’re more than just a production house; we are vision engineers. Our craft lies in turning sparks of creativity into immersive experiences.
+We build world-class visuals, design narratives that resonate, and film stories that don’t just move frames but move people. If vision is what you’re after, ÒRAMA is where it begins.
                 </motion.p>
 
                 <motion.div
