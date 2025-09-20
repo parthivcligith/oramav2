@@ -776,48 +776,8 @@ export default function OramaLanding() {
             </div>
           </section>
 
-          {/* Gallery Section */}
-          <section id="gallery" className="py-16 sm:py-20 lg:py-32 bg-white/5">
-            <div className="container mx-auto px-4 sm:px-6">
-              <motion.div
-                initial={{ opacity: 0, y: 50 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8 }}
-                viewport={{ once: true }}
-                className="text-center mb-12 sm:mb-16"
-              >
-                <h2 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-6 sm:mb-8">Our Gallery</h2>
-                <p className="text-base sm:text-lg text-gray-400 max-w-2xl mx-auto px-4">
-                  A visual journey through our creative work and behind-the-scenes moments.
-                </p>
-              </motion.div>
-
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 max-w-6xl mx-auto">
-                {galleryImages.map((image, index) => (
-                  <motion.div
-                    key={index}
-                    initial={{ opacity: 0, y: 50 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.8, delay: index * 0.1 }}
-                    viewport={{ once: true }}
-                    whileHover={{ scale: isMobile ? 1.02 : 1.05 }}
-                    whileTap={{ scale: 0.98 }}
-                    className="relative group overflow-hidden rounded-2xl border border-white/10 bg-white/5 cursor-pointer"
-                  >
-                    <img
-                      src={image.src || "/placeholder.svg"}
-                      alt={image.alt}
-                      className="w-full h-full object-cover aspect-video transition-transform duration-300 group-hover:scale-110"
-                      loading="lazy"
-                    />
-                    <div className="absolute inset-0 bg-black/60 flex items-center justify-center opacity-0 transition-opacity duration-300 group-hover:opacity-100">
-                      <h3 className="text-white text-lg sm:text-xl font-bold text-center px-4">{image.alt}</h3>
-                    </div>
-                  </motion.div>
-                ))}
-              </div>
-            </div>
-          </section>
+          {/* ery Section */}
+         
 
           {/* Our Designs Section */}
           <section id="designs" className="py-16 sm:py-20 lg:py-32 bg-white/5">
