@@ -899,7 +899,7 @@ We build world-class visuals, design narratives that resonate, and film stories 
               { icon: Camera, label: "Portfolio", href: "#portfolio" },
               { icon: Phone, label: "Call", href: "tel:9400422107" },
               { icon: MessageCircle, label: "WhatsApp", href: "https://wa.me/919400422107" },
-              { icon: Instagram, label: "Instagram", href: "#" },
+              { icon: Instagram, label: "Instagram", href: "https://www.instagram.com/_orama__?igsh=MXFrY2dpZHJiZWV6NQ%3D%3D&utm_source=qr" },
             ].map((item, index) => (
               <motion.a
                 key={item.label}
