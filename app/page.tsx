@@ -935,7 +935,7 @@ We build world-class visuals, design narratives that resonate, and film stories 
                   </p>
                   <div className="flex justify-center md:justify-start space-x-4 mt-6">
                     <motion.a
-                      href="https://www.instagram.com/oramamedia/"
+                      href="https://www.instagram.com/_orama__?igsh=MXFrY2dpZHJiZWV6NQ%3D%3D&utm_source=qr"
                       target="_blank"
                       rel="noopener noreferrer"
                       whileHover={{ scale: 1.2, color: "#E1306C" }}
